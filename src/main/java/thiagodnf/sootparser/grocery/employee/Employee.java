@@ -1,11 +1,11 @@
-package thiagodnf.sootparser.example.grocery.employee;
+package thiagodnf.sootparser.grocery.employee;
 
 import java.util.List;
 
-import thiagodnf.sootparser.example.grocery.order.Order;
-import thiagodnf.sootparser.example.grocery.report.ComplexReport;
-import thiagodnf.sootparser.example.grocery.report.SimpleReport;
-import thiagodnf.sootparser.example.grocery.util.UUIDUtil;
+import thiagodnf.sootparser.grocery.order.Order;
+import thiagodnf.sootparser.grocery.report.ComplexReport;
+import thiagodnf.sootparser.grocery.report.SimpleReport;
+import thiagodnf.sootparser.grocery.util.UUIDUtil;
 
 public class Employee {
 	

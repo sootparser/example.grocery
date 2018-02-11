@@ -1,8 +1,8 @@
-package thiagodnf.sootparser.example.grocery.customer;
+package thiagodnf.sootparser.grocery.customer;
 
 import java.util.Date;
 
-import thiagodnf.sootparser.example.grocery.util.UUIDUtil;
+import thiagodnf.sootparser.grocery.util.UUIDUtil;
 
 public class Customer {
 	

@@ -1,4 +1,4 @@
-package thiagodnf.sootparser.example.grocery.util;
+package thiagodnf.sootparser.grocery.util;
 
 public class UUIDUtil {
 

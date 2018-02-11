@@ -1,6 +1,6 @@
-package thiagodnf.sootparser.example.grocery.order;
+package thiagodnf.sootparser.grocery.order;
 
-import thiagodnf.sootparser.example.grocery.util.UUIDUtil;
+import thiagodnf.sootparser.grocery.util.UUIDUtil;
 
 public class Item {
 

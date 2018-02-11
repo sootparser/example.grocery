@@ -1,4 +1,4 @@
-package thiagodnf.sootparser.example.grocery.payment;
+package thiagodnf.sootparser.grocery.payment;
 
 public class CreditCard extends Card{
 

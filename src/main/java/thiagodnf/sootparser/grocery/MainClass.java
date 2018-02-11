@@ -1,17 +1,17 @@
-package thiagodnf.sootparser.example.grocery;
+package thiagodnf.sootparser.grocery;
 
 import java.util.Arrays;
 import java.util.List;
 
-import thiagodnf.sootparser.example.grocery.customer.Customer;
-import thiagodnf.sootparser.example.grocery.departament.ITDepartament;
-import thiagodnf.sootparser.example.grocery.employee.Employee;
-import thiagodnf.sootparser.example.grocery.order.Item;
-import thiagodnf.sootparser.example.grocery.order.Order;
-import thiagodnf.sootparser.example.grocery.payment.Cash;
-import thiagodnf.sootparser.example.grocery.payment.CreditCard;
-import thiagodnf.sootparser.example.grocery.payment.DebitCard;
-import thiagodnf.sootparser.example.grocery.payment.Payment;
+import thiagodnf.sootparser.grocery.customer.Customer;
+import thiagodnf.sootparser.grocery.departament.ITDepartament;
+import thiagodnf.sootparser.grocery.employee.Employee;
+import thiagodnf.sootparser.grocery.order.Item;
+import thiagodnf.sootparser.grocery.order.Order;
+import thiagodnf.sootparser.grocery.payment.Cash;
+import thiagodnf.sootparser.grocery.payment.CreditCard;
+import thiagodnf.sootparser.grocery.payment.DebitCard;
+import thiagodnf.sootparser.grocery.payment.Payment;
 
 public class MainClass {
 	

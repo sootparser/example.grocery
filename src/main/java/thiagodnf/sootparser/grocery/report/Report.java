@@ -1,8 +1,8 @@
-package thiagodnf.sootparser.example.grocery.report;
+package thiagodnf.sootparser.grocery.report;
 
 import java.util.List;
 
-import thiagodnf.sootparser.example.grocery.order.Order;
+import thiagodnf.sootparser.grocery.order.Order;
 
 public abstract class Report {
 

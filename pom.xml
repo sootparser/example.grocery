@@ -1,12 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>thiagodnf.sootparser.example.grocery</groupId>
-	<artifactId>example.grocery</artifactId>
+	<groupId>thiagodnf.sootparser.grocery</groupId>
+	<artifactId>grocery</artifactId>
 	<version>1.0.0</version>
 	<name>Grocery</name>
 	<description>Grocery is an example for SootParser</description>
-	<url>https://github.com/sootparser/example.grocery</url>
+	<url>https://github.com/sootparser/grocery</url>
 	<organization>
 		<name>SootParser</name>
 		<url>https://github.com/sootparser</url>

@@ -1,11 +1,11 @@
-package thiagodnf.sootparser.example.grocery.order;
+package thiagodnf.sootparser.grocery.order;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import thiagodnf.sootparser.example.grocery.customer.Customer;
-import thiagodnf.sootparser.example.grocery.payment.Payment;
-import thiagodnf.sootparser.example.grocery.util.UUIDUtil;
+import thiagodnf.sootparser.grocery.customer.Customer;
+import thiagodnf.sootparser.grocery.payment.Payment;
+import thiagodnf.sootparser.grocery.util.UUIDUtil;
 
 public class Order {
 	

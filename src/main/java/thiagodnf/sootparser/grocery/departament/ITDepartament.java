@@ -1,9 +1,9 @@
-package thiagodnf.sootparser.example.grocery.departament;
+package thiagodnf.sootparser.grocery.departament;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import thiagodnf.sootparser.example.grocery.employee.Employee;
+import thiagodnf.sootparser.grocery.employee.Employee;
 
 public class ITDepartament {
 	
