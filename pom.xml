@@ -24,4 +24,19 @@
 			<url>https://github.com/thiagodnf</url>
 		</developer>
 	</developers>
+	<dependencies>
+		<dependency> 
+			<groupId>google</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.8.2</version>
+		</dependency>
+	</dependencies>
+	<repositories>
+		<!-- In Project Repository -->
+		<repository>
+			<id>in-project</id>
+			<name>In Project Repository</name>
+			<url>file://${project.basedir}/lib</url>
+		</repository>
+	</repositories>
 </project>

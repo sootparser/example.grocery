@@ -1,5 +1,7 @@
 package thiagodnf.sootparser.grocery.payment;
 
+import com.google.gson.Gson;
+
 public class DebitCard extends Card{
 
 	protected String number;	
@@ -16,6 +18,6 @@ public class DebitCard extends Card{
 
 	@Override
 	public String toString() {
-		return DebitCard.class.getSimpleName();
+		return new Gson().toJson(this);
 	}	
 }
