@@ -34,6 +34,14 @@ public class ComplexReport extends Report{
 			
 			builder.append("\n");
 		}
+		
+		new Thread(new Runnable() {
+
+			@Override
+			public void run() {
+				System.out.println("This is a thread");
+			}
+		});
 
 		return builder.toString();
 	}

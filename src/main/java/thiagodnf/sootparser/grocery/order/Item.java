@@ -3,6 +3,10 @@ package thiagodnf.sootparser.grocery.order;
 import thiagodnf.sootparser.grocery.util.UUIDUtil;
 
 public class Item {
+	
+	public class ItemType {
+		
+    }
 
 	public long itemId;
 
