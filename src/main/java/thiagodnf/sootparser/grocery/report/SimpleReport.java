@@ -22,4 +22,8 @@ public class SimpleReport extends Report {
 
 		return builder.toString();
 	}
+	
+	public String print(List<Order> orders, String id) {
+		return "print: " + id;
+	}
 }
