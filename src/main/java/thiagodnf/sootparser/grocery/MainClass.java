@@ -12,6 +12,7 @@ import thiagodnf.sootparser.grocery.payment.Cash;
 import thiagodnf.sootparser.grocery.payment.CreditCard;
 import thiagodnf.sootparser.grocery.payment.DebitCard;
 import thiagodnf.sootparser.grocery.payment.Payment;
+import thiagodnf.sootparser.grocery.user.User;
 
 public class MainClass {
 	
@@ -39,6 +40,9 @@ public class MainClass {
 
 		department.getEmployees().get(0).printSimpleReports(Arrays.asList(o1, o2, o3, o4));
 		department.getEmployees().get(0).printComplexReports(Arrays.asList(o1, o2, o3, o4));
+		
+		User user = new User("Jonh");
+		
 	}
 	
 	public static Order createOrder(Customer c, List<Item> items, double discount, Payment payment) {

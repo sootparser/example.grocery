@@ -5,7 +5,7 @@ import java.util.List;
 
 import thiagodnf.sootparser.grocery.employee.Employee;
 
-public class ITDepartament {
+public class ITDepartament implements Departament{
 	
 	protected List<Employee> employees;
 	
